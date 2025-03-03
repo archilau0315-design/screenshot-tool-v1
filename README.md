@@ -1,5 +1,15 @@
 # Screenshot Tool
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/archilau0315-design/screenshot-tool-v1)
+![GitHub all releases](https://img.shields.io/github/downloads/archilau0315-design/screenshot-tool-v1/total)
+![GitHub](https://img.shields.io/github/license/archilau0315-design/screenshot-tool-v1)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/archilau0315-design/screenshot-tool-v1/main.yml)
+
+一个简单但功能强大的截图工具，支持多显示器。
+
+[其他内容保持不变...]
+# Screenshot Tool
+
 一个简单但功能强大的截图工具，支持多显示器。
 
 ## 功能特点
